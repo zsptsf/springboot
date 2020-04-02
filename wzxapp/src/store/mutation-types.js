@@ -1,0 +1,8 @@
+export const SET_NUMBER = 'SET_NUMBER'
+export const SET_NAME = 'SET_NAME'
+export const SET_AVATAR = 'SET_AVATAR'
+export const SET_ID = 'SET_ID'
+export const SET_CLBUM = 'SET_CLBUM'
+export const SET_PASSWORD = 'SET_PASSWORD'
+export const SET_ROLE = 'SET_ROLE'
+export const SET_TOKEN = 'SET_TOKEN'
